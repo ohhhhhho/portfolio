@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I Design Websites.", "I Live in Incheon."],    /* You can change the home section typing text from
+            strings: ["Im a webpublisher.", "This is Yeonju PORTFOLIO."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
